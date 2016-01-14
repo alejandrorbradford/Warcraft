@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C" : 0,
+    "E2584D914A3FE042994062B2DC316BBF7F3C9421" : 0,
+    "0254DDCA-F704-4FEE-992E-21093496C14E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D2A2B42-C706-4A2D-BD18-2A21E8514C00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C" : "iOS-Student-WarcraftIII",
+    "E2584D914A3FE042994062B2DC316BBF7F3C9421" : "",
+    "0254DDCA-F704-4FEE-992E-21093496C14E" : "iOS-WarcraftIII"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Warcraft 3",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Warcraft 3.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-WarcraftIII",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0254DDCA-F704-4FEE-992E-21093496C14E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Instructor-Week1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2584D914A3FE042994062B2DC316BBF7F3C9421"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Student-WarcraftIII.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C"
+    }
+  ]
+}
